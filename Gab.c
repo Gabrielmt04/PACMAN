@@ -1,0 +1,11 @@
+#define VAZIO "."
+#define PAREDE_V "|"
+#define PAREDE_H "_"
+#define HEROI    "@"
+#define FANTASMA "F"
+#define PILULA   "P"
+#define ESQ "A"
+#define DIR "D"
+#define CIMA "W"
+#define BAIXO "S"
+
